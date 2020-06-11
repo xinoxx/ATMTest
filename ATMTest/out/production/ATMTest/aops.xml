@@ -1,0 +1,14 @@
+<aops>
+    <aop>
+        <aspect>MyAspect</aspect>
+        <method1>lock</method1>
+        <type>after</type>
+        <method2>login</method2>
+    </aop>
+    <!--<aop>
+        <aspect>MyAspect</aspect>
+        <method3>log</method3>
+        <type>after</type>
+        <method4>draw</method4>
+    </aop>-->
+</aops>
